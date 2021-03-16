@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Reserver</string>
+    <string name="main_prompt">Where do you want to sit?</string>
+</resources>
